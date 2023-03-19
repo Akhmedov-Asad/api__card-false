@@ -106,4 +106,5 @@ btn.addEventListener('click', () => {
     getMovies();
 });
 
-getMovies();
+
+    getMovies();
